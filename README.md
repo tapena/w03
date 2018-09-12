@@ -8,3 +8,4 @@
 | Day 4 | [Validations](validations)       					 | [Who wants to be a millionaire](millionaire)           |
 | Day 5 | [SQL & ActiveRecord](sql_and_activerecord) | [Who wants to be a millionaire (cont)](millionaire)    |
 
+# w03
